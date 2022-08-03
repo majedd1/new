@@ -1,4 +1,4 @@
-$(`<img src="https://jzan1.com//sico/1654799563885.gif" class="fr" style="width:100%;margin-top: -5px;" ></a> `).insertBefore('.nav-tabs');
+$(`<img src="https://skrr0.com/sico/1654799563885.gif" class="fr" style="width:100%;margin-top: -5px;" ></a> `).insertBefore('.nav-tabs');
 $(` </style><link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"> <link rel="stylesheet" href="https://rawcdn.githack.com/majedd1/new/c4ac6426dbe3c1b09ed783a0baa6caa0c2deed01/jjez.css"> </style>`).insertBefore('body');
 $(".fa-bolt").text(" ");
 $('.fa-gear').text(' ')

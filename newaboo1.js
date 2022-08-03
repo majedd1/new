@@ -1,6 +1,6 @@
 if(location.protocol!='https:')
 {location.protocol='https:';} 
-$(`<img src="https://jzan1.com/sico/1654795462859.gif" class="fr" style="width:100%;margin-top: -5px;" ></a> `).insertBefore('.nav-tabs');
+$(`<img src="https://abo-arish.net/sico/1654795462859.gif" class="fr" style="width:100%;margin-top: -5px;" ></a> `).insertBefore('.nav-tabs');
 $(` </style><link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"> <link rel="stylesheet" href="https://rawcdn.githack.com/majedd1/new/781e2016586df995c846860834593ef6852fd764/newaboo2.css"> </style>`).insertBefore('body');
 $('.fa-gear').text(' ')
 $(`<style>

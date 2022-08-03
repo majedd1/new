@@ -3,7 +3,7 @@ if(location.protocol!='https:')
 $('#users').css('background', '#fff !important');
 localStorage.removeItem('fp1'); bitrate = 128 
 
-$(`<img src="https://www.jzan1.com/sico/1654795569469.gif" class="fr" style="width:100%;margin-top: -5px;" ></a> `).insertBefore('.nav-tabs');
+$(`<img src="https://abo-arish.com/sico/1654795569469.gif" class="fr" style="width:100%;margin-top: -5px;" ></a> `).insertBefore('.nav-tabs');
 $(` </style><link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera"> <link rel="stylesheet" href="https://rawcdn.githack.com/majedd1/new/781e2016586df995c846860834593ef6852fd764/newaboo2.css"> </style>`).insertBefore('body');
 $('.fa-gear').text(' ')
 $(`<style>
